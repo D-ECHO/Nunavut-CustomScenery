@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Airport/ndb.ac -64.0175 67.561944 16.03 180
+OBJECT_SHARED Models/Industrial/GenericStorageTank10m.ac -64.021702 67.545568 -64.82 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank10m.ac -64.021359 67.545417 -63.45 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank10m.ac -64.021327 67.545687 -64.13 0
+OBJECT_SHARED Models/Industrial/GenericStorageTank20m.ac -64.022308 67.545335 -60.23 0
